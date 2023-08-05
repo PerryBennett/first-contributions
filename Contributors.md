@@ -1,6 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+
 - [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
 - [Abdul Lathif Shaik](https://github.com/lathifshaik)
 - [Walter Goad](https://github.com/Goadlife1)
@@ -32,7 +33,7 @@
 - [sailorworks](https://github.com/sailorworks)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
-- [Ripa] (https://github.com/riparuk) 
+- [Ripa] (https://github.com/riparuk)
 - [aleisgoood] (https://github.com/aleisgoood)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
@@ -6831,3 +6832,4 @@ Aadi Deshmukh
 - [VitaminZ0](https://github.com/VitaminZ0)
 - [Peanut086](https://github.com/Peanut086)
 - [GargiMittal](https://github.com/GargiMittal)
+- [PerryBennett]
